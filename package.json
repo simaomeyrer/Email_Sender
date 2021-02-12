@@ -1,0 +1,27 @@
+{
+  "name": "emailsender",
+  "version": "1.0.0",
+  "description": "sends emails with or without files attached",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simão Meyrer",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.3.3",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "nodemailer": "^6.4.17",
+    "nodemon": "^2.0.7",
+    "ramda": "^0.27.1"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.0",
+    "@types/config": "0.0.38",
+    "@types/express": "^4.17.11",
+    "@types/nodemailer": "^6.4.0",
+    "@types/ramda": "^0.27.36"
+  }
+}

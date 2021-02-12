@@ -1,0 +1,16 @@
+{
+    "emailConfig": {
+        "host": "yourhost.com",
+        "port": 587,
+        "email": "youremail@email.com",
+        "password": "password"
+    },
+    "dataBase": {
+        "user": "user",
+        "password": "password",
+        "hostName": "hostname",
+        "schema": "yourschema",
+        "port": "3000"
+    },
+    "mainPath": ""
+}
